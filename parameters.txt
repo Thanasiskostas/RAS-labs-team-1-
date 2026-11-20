@@ -1,0 +1,6 @@
+length 40cm (20cm 20cm)
+Δθ 30
+elasticity 10%
+stiffness 
+24 σπονδυλοι
+spiral turns 0.5
